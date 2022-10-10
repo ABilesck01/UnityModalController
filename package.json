@@ -1,0 +1,10 @@
+{
+  "name": "com.helloworld.modal",
+  "version": "1.0.0",
+  "displayName": "Modals",
+  "description": "Generic modal controller",
+  "unity": "2019.1",
+  "author": {
+    "name": "ABilesck"
+  }
+}
